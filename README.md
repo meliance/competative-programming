@@ -1,3 +1,2 @@
 # competative-programming
-#Arithmetic Operation
-#this program can do addition, substraction, multiplcation and division 
+data structure and algorithm programming solving in leetcode, hackrank codeforce  
