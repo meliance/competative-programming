@@ -1,2 +1,2 @@
 # competative-programming
-data structure and algorithm programming solving in leetcode, hackrank codeforce  
+data structure and algorithm programming solving on leetcode, HackerRank, codeforces  
